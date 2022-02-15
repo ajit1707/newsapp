@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/newsapp.iml" filepath="$PROJECT_DIR$/.idea/modules/newsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/newsapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/newsapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1949460992/newsapp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1949460992/newsapp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/404528036/newsapp.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/404528036/newsapp.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1848709417/newsapp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1848709417/newsapp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1242793189/newsapp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1242793189/newsapp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2136887936/newsapp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2136887936/newsapp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1846537624/newsapp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1846537624/newsapp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
